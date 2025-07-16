@@ -15,9 +15,6 @@
 - **Chipped**  
   - [🔽 Download direto](https://www.curseforge.com/api/v1/mods/456956/files/5813138/download)  
   - [🔗 Ver no CurseForge](https://www.curseforge.com/minecraft/mc-mods/chipped)
-- **ConnectedTexturesMod (CTM)**  
-  - [🔽 Download direto](https://www.curseforge.com/api/v1/mods/267602/files/5983309/download)  
-  - [🔗 Ver no CurseForge](https://www.curseforge.com/minecraft/mc-mods/ctm)
 - **Create**  
   - [🔽 Download direto](https://www.curseforge.com/api/v1/mods/328085/files/6641603/download)  
   - [🔗 Ver no CurseForge](https://www.curseforge.com/minecraft/mc-mods/create)
